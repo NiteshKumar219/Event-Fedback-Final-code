@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\anim\\blink.xml"
+    }
+]

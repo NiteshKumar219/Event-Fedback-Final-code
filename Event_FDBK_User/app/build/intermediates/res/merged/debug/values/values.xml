@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <color name="blank">#000000</color>
+    <color name="green">#4FFF33</color>
+    <color name="light_blue">#CFEDEE</color>
+    <color name="yellow">#FFFF33</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
+    <string name="app_name">Events App</string>
+    <string name="app_name1">MGR Association Events</string>
+    <string name="code_hint">Enter the Code...</string>
+    <string name="event_title">
+
+        &lt;center>&lt;font color=#0000FF>
+        	&lt;b>Welcome to Dr. M.G.R. University\'s
+        	&lt;br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+        	&lt;i>Events App&lt;/i>&lt;/b>&lt;/center>
+    </string>
+    <string name="evt_upd">Upcoming Events</string>
+    <string name="fdb_app">Event Feedback</string>
+    <string name="fdbk_title">
+
+        &lt;center>&lt;font color=#0000FF>
+        	&lt;b>Welcome to Dr. M.G.R. University\'s
+        	&lt;br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+        	&lt;i>Feedback App&lt;/i>&lt;/b>&lt;/center>
+    </string>
+    <string name="lg_btn">Submit</string>
+    <string name="reg_em">Enter your Email ID..</string>
+    <string name="reg_phno">Enter your Mobile No..</string>
+    <string name="reg_sbt">Register</string>
+    <string name="title_activity_f1">MGR Association Events</string>
+    <string name="title_activity_f2">MGR Association Events</string>
+    <string name="title_activity_f3">MGR Association Events</string>
+    <string name="title_activity_f4">MGR Association Events</string>
+    <string name="title_activity_fs">MGR Association Events</string>
+    <string name="title_activity_ls">MGR Association Events</string>
+    <string name="title_activity_regs"> lMGR Association Events</string>
+    <string name="title_activity_ues">MGR Association Events</string>
+    <string name="ws">Welcome Screen</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">@style/ButtonBar</item>
+        <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+</resources>

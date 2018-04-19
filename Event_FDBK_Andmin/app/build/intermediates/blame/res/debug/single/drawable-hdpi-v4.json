@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mgr_logo.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\drawable-hdpi\\mgr_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aaa.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\drawable-hdpi\\aaa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_bkg.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\drawable-hdpi\\app_bkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mgr_univ_logo.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\drawable-hdpi\\mgr_univ_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonstyle.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\drawable-hdpi\\buttonstyle.xml"
+    }
+]

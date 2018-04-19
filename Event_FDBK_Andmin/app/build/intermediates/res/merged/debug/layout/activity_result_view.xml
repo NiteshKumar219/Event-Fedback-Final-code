@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.mgr.eventapp.ResultViewActivity" 
+    android:background="@drawable/app_bkg">
+
+    <RelativeLayout 
+        android:id="@+id/befr"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent">
+
+        <Spinner
+            android:id="@+id/data_spin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/textView1"
+            android:layout_marginLeft="21dp"
+            android:layout_toRightOf="@+id/textView1" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/data_spin"
+            android:layout_marginTop="30dp"
+            android:layout_toLeftOf="@+id/data_spin"
+            android:text="@string/sel_type"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Spinner
+            android:id="@+id/chart_spin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/data_spin"
+            android:layout_alignTop="@+id/textView2" />
+
+        <Button
+            android:id="@+id/b_genr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chart_spin"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="52dp"
+            android:text="@string/gen_chart"
+            android:onClick="generate"
+            android:background="@drawable/buttonstyle" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="82dp"
+            android:text="@string/sel_data"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+    </RelativeLayout>
+    <RelativeLayout 
+        android:id="@+id/after"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent">
+        
+        <WebView  
+        	android:id="@+id/webView1"  
+        	android:layout_width="match_parent"  
+        	android:layout_height="match_parent"  
+        	android:layout_alignParentTop="true"  
+        	android:layout_centerHorizontal="true"/> 
+        
+    </RelativeLayout>
+    
+</RelativeLayout>

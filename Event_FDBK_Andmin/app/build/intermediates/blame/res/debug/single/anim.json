@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\anim\\fade_out.xml"
+    }
+]

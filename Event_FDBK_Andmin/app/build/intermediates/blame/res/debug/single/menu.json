@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\data_view.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\menu\\data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\change_data.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\menu\\change_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\result_view.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\menu\\result_view.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_data_view.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\layout\\activity_data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result_view.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\layout\\activity_result_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_screen.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\EventApp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]

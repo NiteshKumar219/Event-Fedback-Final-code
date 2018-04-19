@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aaa.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\aaa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnimg3.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\btnimg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bkg.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\bkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txtbk.xml",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\txtbk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_bkg.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\app_bkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bkimg.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\bkimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bkimgs.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\bkimgs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qqq.jpg",
+        "source": "C:\\Users\\Nitesh kumar\\AndroidStudioProjects\\FDBK_V1\\app\\src\\main\\res\\drawable-hdpi\\qqq.jpg"
+    }
+]

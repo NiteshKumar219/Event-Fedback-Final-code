@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Events App</string>
+    <string name="ws">Welcome Screen</string>
+    <string name="event_title">
+<![CDATA[
+        <center><font color=#0000FF>
+        	<b>Welcome to Dr. M.G.R. University\'s
+        	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        	<i>Events App</i></b></center>]]>
+    </string>
+    <string name="fdbk_title">
+<![CDATA[
+        <center><font color=#0000FF>
+        	<b>Welcome to Dr. M.G.R. University\'s
+        	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        	<i>Feedback App</i></b></center>]]>
+    </string>
+    <string name="evt_upd">Upcoming Events</string>
+    <string name="fdb_app">Event Feedback</string>
+    <string name="code_hint">Enter the Code...</string>
+    <string name="title_activity_ls">MGR Association Events</string>
+    <string name="lg_btn">Submit</string>
+    <string name="app_name1">MGR Association Events</string>
+    <string name="title_activity_fs">MGR Association Events</string>
+    <string name="title_activity_ues">MGR Association Events</string>
+    <string name="title_activity_f1">MGR Association Events</string>
+    <string name="title_activity_f2">MGR Association Events</string>
+    <string name="title_activity_f3">MGR Association Events</string>
+    <string name="title_activity_f4">MGR Association Events</string>
+    <string name="title_activity_regs"> lMGR Association Events</string>
+	<string name="reg_em">Enter your Email ID..</string>
+	<string name="reg_phno">Enter your Mobile No..</string>
+	<string name="reg_sbt">Register</string>    
+
+</resources>
